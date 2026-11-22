@@ -1,0 +1,4 @@
+# JSON editor bundle: the Host half is a no-op; the Client half renders the editor.
+- insert:
+    - id: dsh-json-editor
+      name: '@oakzhong/dsh-json-editor'
